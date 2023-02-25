@@ -1,5 +1,7 @@
 # 2-DoF-Hoist-Control
 
+Project done in collaboration with Fabio Conti.
+
 ## How to run
 
 To run the system you should first launch the INSTALL shell script running the following command on the command window:
